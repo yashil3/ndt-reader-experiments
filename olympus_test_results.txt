@@ -1,0 +1,99 @@
+=== Olympus NDT-35DL Communication Test Results ===
+Timestamp: 2025-08-01 14:02:36
+
+=== All Commands Tested ===
+Command: VER?
+Response: VERSION: 1.14 /1.01x
+OK
+--------------------------------------------------
+Command: ID?
+Response: 4
+OK
+--------------------------------------------------
+Command: UNITS?
+Response: IN
+OK
+--------------------------------------------------
+Command: RANGE?
+Response: 0.38
+OK
+--------------------------------------------------
+Command: VER?
+Response: VERSION: 1.14 /1.01x
+OK
+--------------------------------------------------
+Command: ID?
+Response: 4
+OK
+--------------------------------------------------
+Command: UNITS?
+Response: IN
+OK
+--------------------------------------------------
+Command: RANGE?
+Response: 0.38
+OK
+--------------------------------------------------
+Command: VELOCITY?
+Response: 0.03937
+OK
+--------------------------------------------------
+Command: ZERO?
+Response: 195.2
+OK
+--------------------------------------------------
+Command: MODE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: STATUS?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: MEMORY?
+Response: 31602 1316 24
+OK
+--------------------------------------------------
+
+============================================================
+=== WORKING COMMANDS SUMMARY ===
+============================================================
+
+Found 7 working commands:
+
+'ID?' -> '4
+OK'
+'MEMORY?' -> '31602 1316 24
+OK'
+'RANGE?' -> '0.38
+OK'
+'UNITS?' -> 'IN
+OK'
+'VELOCITY?' -> '0.03937
+OK'
+'VER?' -> 'VERSION: 1.14 /1.01x
+OK'
+'ZERO?' -> '195.2
+OK'
+
+=== Working Commands by Category ===
+
+Basic:
+  ID? -> 4
+OK
+  VER? -> VERSION: 1.14 /1.01x
+OK
+
+File Operations:
+  VELOCITY? -> 0.03937
+OK
+
+Memory:
+  MEMORY? -> 31602 1316 24
+OK
+
+Configuration:
+  UNITS? -> IN
+OK
+  RANGE? -> 0.38
+OK
+  ZERO? -> 195.2
+OK

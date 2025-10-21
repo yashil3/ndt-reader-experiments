@@ -1,0 +1,184 @@
+=== Olympus USBTMC Communication Log ===
+Timestamp: 2025-08-01 12:34:01
+
+Command: VER?
+Response: VERSION: 1.14 /1.01x
+OK
+--------------------------------------------------
+Command: ID?
+Response: 001
+OK
+--------------------------------------------------
+Command: MEAS?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: MEASURE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: READ?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: DATA?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: THICK?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: THICKNESS?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: VAL?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: VALUE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: RESULT?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: READING?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: LIVE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: CURRENT?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: NOW?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: GET?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: FETCH?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: STATUS?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: STATE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: MODE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: UNITS?
+Response: IN
+OK
+--------------------------------------------------
+Command: RANGE?
+Response: 0.38
+OK
+--------------------------------------------------
+Command: GAIN?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: VELOCITY?
+Response: 0.03937
+OK
+--------------------------------------------------
+Command: VEL?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: FREQ?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: FREQUENCY?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: CONFIG?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: SETUP?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: PARAM?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: SETTINGS?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: CAL?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: ZERO?
+Response: 195.2
+OK
+--------------------------------------------------
+Command: MEM?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: MEMORY?
+Response: 31740 1322 24
+OK
+--------------------------------------------------
+Command: STORE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: RECALL?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: LIST?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: DUMP?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: INFO?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: MODEL?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: SERIAL?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: SN?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: DATE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: TIME?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: ERROR?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: ERR?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: HELP?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: CMD?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: COMMANDS?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: MEAS?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: READ?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: THICK?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: VALUE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: DATA?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: CURRENT?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: NOW?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
+Command: LIVE?
+Response: ER:UNKNOWN COMMAND
+--------------------------------------------------
